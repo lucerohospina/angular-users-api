@@ -14,6 +14,6 @@ Credits:
 
 * Gary Simon from [coursetro](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course)
 
-* Api used for this example: [json placeholder](http://joedicastro.com "titulo")
+* Api used for this example: [json placeholder](https://jsonplaceholder.typicode.com/)
 
 
